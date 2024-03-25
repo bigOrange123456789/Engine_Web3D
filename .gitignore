@@ -1,0 +1,22 @@
+# 忽略 /node_modules/ 目录及其下的所有文件
+/node_modules/
+
+
+# 忽略/.cache/目录及其下的所有文件
+/.cache/
+/demo/*/.cache/
+
+/新建文件夹/
+/*/新建文件夹/
+/*/*/新建文件夹/
+/*/*/*/新建文件夹/
+
+/assets/*/
+
+/demo/*/index.js
+/demo/*/analysis
+
+# 忽略 /dist/ 目录及其下的所有文件
+dist
+/dist/
+/dist/index.html

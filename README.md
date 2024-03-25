@@ -1,4 +1,4 @@
-assts
+assets
       project1
       project2
       ...
