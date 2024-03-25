@@ -60,15 +60,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bigOrange123456789/VisibilityAnalysisAndP2P.git"
+    "url": "git+https://github.com/bigOrange123456789/Engine_Web3D.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bigOrange123456789/VisibilityAnalysisAndP2P/issues"
+    "url": "https://github.com/bigOrange123456789/Engine_Web3D/issues"
   },
-  "homepage": "https://github.com/bigOrange123456789/VisibilityAnalysisAndP2P#readme",
+  "homepage": "https://github.com/bigOrange123456789/Engine_Web3D#readme",
   "description": "",
   "main": "./demo/electron_cylinder/server_detection.js"
 }
